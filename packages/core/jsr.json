@@ -1,0 +1,6 @@
+{
+  "$schema": "https://jsr.io/schema/config-file.v1.json",
+  "name": "@endure/core",
+  "version": "0.0.1",
+  "exports": "./src/mod.ts"
+}
